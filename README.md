@@ -18,7 +18,8 @@ else:
 
 # Face Recognition Steps
 Facial recognition is the process of identifying or verifying the identity of a person using their face. It captures, analyzes, and compares patterns based on the person's facial details.
-
-1. The face detection process is an essential step in detecting and locating human faces in images and videos.
-2. The face capture process transforms analog information (a face) into a set of digital information (data or vectors) based on the person's facial features.
-3. The face match process verifies if two faces belong to the same person.
+<ul>
+<li>The face detection process is an essential step in detecting and locating human faces in images and videos.</li>
+<li>The face capture process transforms analog information (a face) into a set of digital information (data or vectors) based on the person's facial features.</li>
+  <li>The face match process verifies if two faces belong to the same person.</li>
+</ul>
